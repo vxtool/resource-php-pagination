@@ -1,7 +1,11 @@
 # Resource PHP Pagination
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/descco-tools/resource-php-pagination.svg?style=flat-square)](https://github.com/descco-tools/resource-php-pagination/issues)
+[![GitHub issues](https://img.shields.io/github/issues/org-victorinox/resource-php-pagination.svg)](https://github.com/org-victorinox/resource-php-pagination/issues)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-victorinox/resource-php-pagination.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-victorinox/resource-php-pagination.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/resource-php-pagination.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/resource-php-pagination/total.svg)
 
 ## Contributing
 
@@ -13,7 +17,7 @@
 
 ## Log
 
-Check [Releases](https://github.com/descco-tools/resource-php-pagination/releases) for detailed changelog.
+Check [Releases](https://github.com/org-victorinox/resource-php-pagination/releases) for detailed changelog.
 
 ## License
 
